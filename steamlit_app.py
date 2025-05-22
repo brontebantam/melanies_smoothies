@@ -1,5 +1,4 @@
 # Import python packages
-import snowflake-snowpark-python
 import streamlit as st
 import requests
 import pandas as pd
